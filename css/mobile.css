@@ -446,8 +446,7 @@ ol {
     max-width: 288px;
     width: 100%;
     margin-bottom: 72px;
-    margin-top: 0;
-    padding-left: 16px;
+    margin-top: 0;  
 }
 
 .text-footer-sub {
@@ -1024,6 +1023,10 @@ ol {
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+}
+
+.item-text {
+    font-weight: 400;
 }
 
 .icon-container {
